@@ -1,4 +1,4 @@
-package namespace
+package namespaces
 
 import "syscall"
 
